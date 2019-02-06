@@ -1,3 +1,4 @@
+import '../style/default.scss'
 import * as $ from 'jquery';
 import { Greeter } from "./Greeter";
 

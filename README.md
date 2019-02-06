@@ -8,3 +8,6 @@ npm start
 
 ## create files for distribution
 npm run build
+
+## watch for changes and rebuild
+npm run build-watch
